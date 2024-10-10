@@ -1,6 +1,6 @@
 # Identifying and Classifying Multiple Sourced and Categorized Self-Admitted Technical Debts: A Pipeline
 ---
-This  repository contains the models, dataset and experimental code mentioned in the paper. Specifically, experimental code includes the implementation code of our pipeline and the process of training, the dataset includes the preprocessed complete dataset used for training and testing, and models includes our models in pipeline and RQ.
+This  repository contains the models, dataset and experimental code mentioned in the paper. Specifically, experimental code includes the implementation code of our pipeline and the process of training, the dataset includes the preprocessed complete dataset used for training and testing, and models includes our models in pipeline and RQ1-3.
 ---
 #### dataset and models
 
