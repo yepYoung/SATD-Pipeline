@@ -10,7 +10,7 @@ This  repository contains the models, dataset and experimental code mentioned in
 | Model-glm4-9b-chat-sft-9class | Model training to classify all SATD sentences into 9 categories. | [Link2](https://huggingface.co/chaos1203/satd-glm4-9b-chat-sft-9class) |
 | Model-glm4-9b-chat-sft | Model training to apply in pipeline to classify isSATD sentences into 8 categories. | [Link3](https://huggingface.co/chaos1203/satd-glm4-9b-chat-sft) |
 | Model-satd-glm4-9b-chat-sft-noaug | Model training to classify isSATD sentences into 8 categories with data not augmented. | [Link4](https://huggingface.co/chaos1203/satd-glm4-9b-chat-sft-noaug) |
-| Model-MT-Bert | Model traing to identify all SATD sentences into 2 categories(isSATD or nonSATD) | [Link4]() |
+| Model-MT-Bert | Model traing to identify all SATD sentences into 2 categories(isSATD or nonSATD) | [Link4](https://box.nju.edu.cn/f/a9455caeac9547159ff2/?dl=1) |
 
 #### code
 The following is an introduction to code to make it easier for readers to use.
