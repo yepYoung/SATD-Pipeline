@@ -4,7 +4,7 @@ This  repository contains the models, dataset and experimental code mentioned in
 ---
 #### dataset and models
 
-| Dataset&Models| description | Link |
+| Dataset&Models| Description | Link |
 | ----------- | ----------- | --------- |
 | Dataset-satd_aug | Total augmented dataset including all SATD sentence, instruction and categories. | [Link1](https://huggingface.co/datasets/chaos1203/satd_aug) |
 | Model-glm4-9b-chat-sft-9class | Model training to classify all SATD sentences into 9 categories. | [Link2](https://huggingface.co/chaos1203/satd-glm4-9b-chat-sft-9class) |
